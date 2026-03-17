@@ -1,0 +1,4 @@
+# Ignorar arquivos de dados e chaves
+*.xlsx
+*.env
+__pycache__/
